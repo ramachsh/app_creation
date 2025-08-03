@@ -5,7 +5,7 @@ export default function Index() {
   return (
     <View
       style={styles.container}>
-      <Text style={styles.text}>Hurray!!My FFirst Mobile App!!
+      <Text style={styles.text}>Hurray!!My First Mobile App!!
       </Text>
       <Link href={"/about"} style={styles.button}>
       Go to About Screen
